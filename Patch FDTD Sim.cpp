@@ -62,7 +62,7 @@ void FirstABC();
 void UpdateHfields();
 void SecondABC();
 
-main()
+int main()
 {
 
   FILE *in;
