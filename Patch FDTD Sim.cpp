@@ -1,6 +1,9 @@
-/*This program is a 3D FDTD simulation that will
+/*
+  This program is a 3D FDTD simulation that will
   model the fields coming off of a microstrip, onto a patch antenna
-  ABC's are 1st order
+  Absorbing Boundary Condition (ABC) is 1st order. 
+  
+  TO DO: Implement 2nd order accuracy for homogeneous regions.
 
 */
 
