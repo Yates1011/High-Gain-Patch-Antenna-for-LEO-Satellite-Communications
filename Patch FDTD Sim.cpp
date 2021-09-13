@@ -3,7 +3,7 @@
   model the fields coming off of a microstrip, onto a patch antenna
   Absorbing Boundary Condition (ABC) is 1st order. 
   
-  TO DO: Implement 2nd order accuracy for homogeneous regions.
+  TO DO: Implement 2nd order ABC accuracy.
 
 */
 
